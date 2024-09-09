@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Know-it\c++ Language\Date\main.cpp(3,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Know-it\c++ Language\Date\main.cpp(8,10): error C3688: invalid literal suffix 'd1'; literal operator or literal operator template 'operator ""d1' not found

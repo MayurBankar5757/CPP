@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Know-it\c++ Language\Product\main.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Know-it\c++ Language\Product\Product.h(1,14): warning C4083: expected 'newline'; found identifier '_CRT_SECURE_NO_WARNINGS'
+  (compiling source file 'main.cpp')
+  
+D:\Know-it\c++ Language\Product\main.cpp(5,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Product.vcxproj -> D:\Know-it\c++ Language\Date_2\x64\Debug\Product.exe

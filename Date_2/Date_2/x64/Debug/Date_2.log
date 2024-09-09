@@ -1,0 +1,7 @@
+﻿  Date.cpp
+D:\Know-it\c++ Language\Date_2\Date.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+D:\Know-it\c++ Language\Date_2\main.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Know-it\c++ Language\Date_2\main.cpp(5,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Date_2.vcxproj -> D:\Know-it\c++ Language\Date_2\x64\Debug\Date_2.exe

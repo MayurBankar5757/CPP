@@ -1,0 +1,17 @@
+int sum = 0;
+for(int i = 0; i < n; i++) {
+    sum = sum + 10;
+    for(int j = 0; j < n; j++) {
+        sum = sum + j;
+        break;
+    }
+}
+ÿint sum = 0;
+for(int i = 0; i < n; i++) {
+    sum = sum + 10;
+    for(int j = 0; j < n; j++) {
+        sum = sum + j;
+        break;
+    }
+}
+ÿ

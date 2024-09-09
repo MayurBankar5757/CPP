@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Know-it\\c\u002B\u002B Language\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B671D1C9-768B-443A-8245-8BC30FCFED87}|Day_02\\Day_02.vcxproj|D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B671D1C9-768B-443A-8245-8BC30FCFED87}|Day_02\\Day_02.vcxproj|solutionrelative:Day_02\\Assi8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B671D1C9-768B-443A-8245-8BC30FCFED87}|Day_02\\Day_02.vcxproj|D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B671D1C9-768B-443A-8245-8BC30FCFED87}|Day_02\\Day_02.vcxproj|solutionrelative:Day_02\\Assi6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B671D1C9-768B-443A-8245-8BC30FCFED87}|Day_02\\Day_02.vcxproj|D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B671D1C9-768B-443A-8245-8BC30FCFED87}|Day_02\\Day_02.vcxproj|solutionrelative:Day_02\\Assi7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B671D1C9-768B-443A-8245-8BC30FCFED87}|Day_02\\Day_02.vcxproj|D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B671D1C9-768B-443A-8245-8BC30FCFED87}|Day_02\\Day_02.vcxproj|solutionrelative:Day_02\\Assi3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B671D1C9-768B-443A-8245-8BC30FCFED87}|Day_02\\Day_02.vcxproj|D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B671D1C9-768B-443A-8245-8BC30FCFED87}|Day_02\\Day_02.vcxproj|solutionrelative:Day_02\\Assi4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B671D1C9-768B-443A-8245-8BC30FCFED87}|Day_02\\Day_02.vcxproj|D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B671D1C9-768B-443A-8245-8BC30FCFED87}|Day_02\\Day_02.vcxproj|solutionrelative:Day_02\\Assi5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B671D1C9-768B-443A-8245-8BC30FCFED87}|Day_02\\Day_02.vcxproj|D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B671D1C9-768B-443A-8245-8BC30FCFED87}|Day_02\\Day_02.vcxproj|solutionrelative:Day_02\\Assi2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B671D1C9-768B-443A-8245-8BC30FCFED87}|Day_02\\Day_02.vcxproj|D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B671D1C9-768B-443A-8245-8BC30FCFED87}|Day_02\\Day_02.vcxproj|solutionrelative:Day_02\\Assi1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Assi4.cpp",
+              "DocumentMoniker": "D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi4.cpp",
+              "RelativeDocumentMoniker": "Day_02\\Assi4.cpp",
+              "ToolTip": "D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi4.cpp",
+              "RelativeToolTip": "Day_02\\Assi4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T09:41:59.128Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Assi5.cpp",
+              "DocumentMoniker": "D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi5.cpp",
+              "RelativeDocumentMoniker": "Day_02\\Assi5.cpp",
+              "ToolTip": "D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi5.cpp",
+              "RelativeToolTip": "Day_02\\Assi5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T09:42:58.212Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assi8.cpp",
+              "DocumentMoniker": "D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi8.cpp",
+              "RelativeDocumentMoniker": "Day_02\\Assi8.cpp",
+              "ToolTip": "D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi8.cpp",
+              "RelativeToolTip": "Day_02\\Assi8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T10:53:26.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assi7.cpp",
+              "DocumentMoniker": "D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi7.cpp",
+              "RelativeDocumentMoniker": "Day_02\\Assi7.cpp",
+              "ToolTip": "D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi7.cpp",
+              "RelativeToolTip": "Day_02\\Assi7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T10:32:26.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assi6.cpp",
+              "DocumentMoniker": "D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi6.cpp",
+              "RelativeDocumentMoniker": "Day_02\\Assi6.cpp",
+              "ToolTip": "D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi6.cpp",
+              "RelativeToolTip": "Day_02\\Assi6.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T09:52:12.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Assi3.cpp",
+              "DocumentMoniker": "D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi3.cpp",
+              "RelativeDocumentMoniker": "Day_02\\Assi3.cpp",
+              "ToolTip": "D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi3.cpp",
+              "RelativeToolTip": "Day_02\\Assi3.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T09:37:46.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Assi2.cpp",
+              "DocumentMoniker": "D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi2.cpp",
+              "RelativeDocumentMoniker": "Day_02\\Assi2.cpp",
+              "ToolTip": "D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi2.cpp",
+              "RelativeToolTip": "Day_02\\Assi2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T09:31:05.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Assi1.cpp",
+              "DocumentMoniker": "D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi1.cpp",
+              "RelativeDocumentMoniker": "Day_02\\Assi1.cpp",
+              "ToolTip": "D:\\Know-it\\c\u002B\u002B Language\\Day_02\\Assi1.cpp",
+              "RelativeToolTip": "Day_02\\Assi1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T09:29:26.16Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

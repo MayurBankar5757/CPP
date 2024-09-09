@@ -1,0 +1,7 @@
+﻿  Complex.cpp
+D:\Know-it\c++ Language\Complex2\Complex.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+D:\Know-it\c++ Language\Complex2\main.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Know-it\c++ Language\Complex2\main.cpp(5,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Complex2.vcxproj -> D:\Know-it\c++ Language\Date_2\x64\Debug\Complex2.exe

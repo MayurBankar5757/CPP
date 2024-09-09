@@ -1,0 +1,1 @@
+#include"Point.h";using namespace std;void main() {	Point p1;	p1.Display();	Point p2(40, 50);	p2.Display();}

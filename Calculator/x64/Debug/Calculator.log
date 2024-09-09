@@ -1,0 +1,7 @@
+﻿  Calculator.cpp
+D:\Know-it\c++ Language\Calculator\Calculator.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+D:\Know-it\c++ Language\Calculator\main.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Know-it\c++ Language\Calculator\main.cpp(4,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Calculator.vcxproj -> D:\Know-it\c++ Language\Date\x64\Debug\Calculator.exe
