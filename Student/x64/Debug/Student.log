@@ -1,0 +1,5 @@
+﻿  Date.cpp
+C:\Users\banka\source\repos\Student\Date.cpp(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Student.cpp
+  Generating Code...
+  Student.vcxproj -> C:\Users\banka\source\repos\Reusing classes\x64\Debug\Student.exe

@@ -1,0 +1,8 @@
+﻿  Complex.cpp
+  main.cpp
+C:\Users\banka\source\repos\Complex\Complex.cpp(32,20): error C2084: function 'Complex Complex::operator +(Complex &)' already has a body
+      C:\Users\banka\source\repos\Complex\Complex.cpp(16,20):
+      see previous definition of 'Complex::operator +'
+  
+C:\Users\banka\source\repos\Complex\main.cpp(5,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...

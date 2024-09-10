@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\banka\\source\\repos\\Stack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBC1211-6DDA-431E-9FBF-7B2F80FABB16}|Stack.vcxproj|C:\\Users\\banka\\source\\repos\\Stack\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBC1211-6DDA-431E-9FBF-7B2F80FABB16}|Stack.vcxproj|solutionrelative:Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBC1211-6DDA-431E-9FBF-7B2F80FABB16}|Stack.vcxproj|C:\\Users\\banka\\source\\repos\\Stack\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBC1211-6DDA-431E-9FBF-7B2F80FABB16}|Stack.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\banka\\source\\repos\\Stack\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\banka\\source\\repos\\Stack\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T09:52:21.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stack.cpp",
+              "DocumentMoniker": "C:\\Users\\banka\\source\\repos\\Stack\\Stack.cpp",
+              "RelativeDocumentMoniker": "Stack.cpp",
+              "ToolTip": "C:\\Users\\banka\\source\\repos\\Stack\\Stack.cpp",
+              "RelativeToolTip": "Stack.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T09:50:44.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

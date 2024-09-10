@@ -1,0 +1,5 @@
+﻿  Array.cpp
+  main.cpp
+C:\Users\banka\source\repos\Array_2\main.cpp(5,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+C:\Users\banka\source\repos\Array_2\Array.cpp(40,1): error C4716: 'operator>>': must return a value

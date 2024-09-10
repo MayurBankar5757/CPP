@@ -1,0 +1,10 @@
+﻿  Date.cpp
+  Employee.cpp
+  main.cpp
+C:\Users\banka\source\repos\Employee\main.cpp(6,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Manager.cpp
+  SalesManager.cpp
+  SalesPerson.cpp
+  WageEmployee.cpp
+  Generating Code...
+  Employee.vcxproj -> C:\Users\banka\source\repos\Employee\x64\Debug\Employee.exe

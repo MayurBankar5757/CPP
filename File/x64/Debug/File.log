@@ -1,0 +1,4 @@
+﻿  Assi1.cpp
+C:\Users\banka\source\repos\File\Assi1.cpp(6,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\banka\source\repos\File\Assi1.cpp(7,7): warning C4101: 'ch': unreferenced local variable
+  File.vcxproj -> C:\Users\banka\source\repos\Array\x64\Debug\File.exe

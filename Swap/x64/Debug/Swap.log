@@ -1,0 +1,3 @@
+﻿  Swap.cpp
+C:\Users\banka\source\repos\Swap\Swap.cpp(17,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Swap.vcxproj -> C:\Users\banka\source\repos\Reusing classes\x64\Debug\Swap.exe
